@@ -1,5 +1,5 @@
 # GSAformer
-The source code for **G**roup **S**parse **A**ttention Transformer (GSA**former**) framework.
+The source code for **G**roup **S**parse **A**ttention Trans**former** (GSAformer) framework.
 
 ## Paper
 **GSAformer: Group Sparse Attention Transformer for Functional Brain Network Analysis**
