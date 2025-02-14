@@ -1,5 +1,5 @@
 # GSAformer
-The source code for **G**roup **S**parse **A**ttention Transformer (GSAformer) framework.
+The source code for **G**roup **S**parse **A**ttention Transformer (GSA**former**) framework.
 
 ## Paper
 **GSAformer: Group Sparse Attention Transformer for Functional Brain Network Analysis**
@@ -15,11 +15,10 @@ We used the following datasets:
 ## Dependencies
 GSAformer needs the following dependencies:
 
-- python 3.8.10
-- torch == 1.9.0
-- numpy == 1.21.1
-- einops == 0.6.1
-- scipy == 1.7.1
-- sklearn == 0.0
-- tqdm == 4.63.0
+- python 3.9.12
+- torch == 1.11.0
+- numpy == 1.21.5
+- scipy == 1.7.3
+- sklearn == 1.0.2
 - pandas == 1.3.2
+- h5py == 3.6.0
